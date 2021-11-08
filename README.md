@@ -13,5 +13,5 @@ For now, it includes functions:
   - Date idea generator
   - Movie list randomizer
   - Some inside jokes
- 
+  - A random complimenter
  
